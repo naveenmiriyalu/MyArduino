@@ -1,0 +1,8 @@
+Few useful links :
+
+https://create.arduino.cc/projecthub/iotboys/control-led-by-clap-using-arduino-and-sound-sensor-e31809
+http://sensorkit.en.joy-it.net/index.php?title=KY-038_Microphone_sound_sensor_module
+
+TODO:
+Add schematic 
+Make a note on potentiometer 
